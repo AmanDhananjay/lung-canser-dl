@@ -1,0 +1,10 @@
+flask
+flask-cors
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+pillow
+opencv-python
+requests
